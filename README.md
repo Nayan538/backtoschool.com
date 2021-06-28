@@ -1,5 +1,8 @@
 ## BackToSchool - A School Management Software Solution
 
+
+### Folder Structure
+
 ```
 ├───@DataBase
 ├───ajax
