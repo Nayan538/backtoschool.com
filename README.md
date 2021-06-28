@@ -1,5 +1,6 @@
 ## BackToSchool - A School Management Software Solution
 
+```
 ├───@DataBase
 ├───ajax
 ├───app
@@ -46,3 +47,4 @@
         ├───content
         │   └───ajax
         └───include
+```
